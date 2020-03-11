@@ -1,0 +1,11 @@
+{
+    "login": {
+        "email_created": "#email_create",
+        "email": "#email",
+        "password": "#passwd",
+        "loginButton": "#SubmitLogin",
+        "createButton": "#SubmitCreate",
+        "error": ".alert-danger",
+        "success": ".page-heading"
+    }
+}
