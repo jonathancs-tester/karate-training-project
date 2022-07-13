@@ -1,4 +1,4 @@
-# ame-project
+# karateDSL training API and UI tests
 >O projeto consiste em testes de sistema para backend e frontend utilizando o framework Karate DSL</p>
 
 #### Tecnologias/libs utilizadas:
